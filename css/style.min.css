@@ -302,7 +302,7 @@ body {
   padding: 106px 20px 181px 94px;
   display: -ms-flexbox;
   display: flex;
-  background: hsla(0, 0%, 92%, 0.5);
+  background: hsla(0, 0%, 92%);
   position: fixed;
   left: 0;
   top: 0;
