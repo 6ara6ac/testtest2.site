@@ -1173,12 +1173,11 @@ body {
   display: -ms-flexbox;
   display: flex;
   padding: 40px 20px 77px;
-  background: hsla(0, 0%, 92%, 0.5);
+  background: hsla(0, 0%, 100%, 0.657);
   border-radius: 14px;
   height: 380px;
   -ms-flex-align: center;
   align-items: center;
-  color: #fff;
 }
 @media screen and (min-width: 1210px) {
   .slider__item {
@@ -1247,7 +1246,6 @@ body {
   border-left: 2px solid #8abf1a;
   color: rgba(0, 0, 0, 0.8);
   padding-left: 10px;
-  color: #fff;
 }
 .slider__pagination {
   display: -ms-flexbox;
