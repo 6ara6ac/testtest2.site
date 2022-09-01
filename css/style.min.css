@@ -1131,7 +1131,7 @@ body {
 .slider {
   position: relative;
   padding-bottom: 70px;
-  background-color: #8abf1a;
+  background: linear-gradient(#fff, #8abf1a 80%);
 }
 @media screen and (min-width: 1210px) {
   .slider__title {
@@ -1178,6 +1178,7 @@ body {
   height: 380px;
   -ms-flex-align: center;
   align-items: center;
+  color: #fff;
 }
 @media screen and (min-width: 1210px) {
   .slider__item {
@@ -1246,6 +1247,7 @@ body {
   border-left: 2px solid #8abf1a;
   color: rgba(0, 0, 0, 0.8);
   padding-left: 10px;
+  color: #fff;
 }
 .slider__pagination {
   display: -ms-flexbox;
