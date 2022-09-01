@@ -302,7 +302,7 @@ body {
   padding: 106px 20px 181px 94px;
   display: -ms-flexbox;
   display: flex;
-  background: #8abf1a;
+  background: hsla(0, 0%, 92%, 0.5);
   position: fixed;
   left: 0;
   top: 0;
@@ -1240,7 +1240,7 @@ body {
 .slider__item--title span,
 .benefits__title span,
 .slider__title span {
-  color: #56d26a;
+  color: #8abf1a;
 }
 .slider__item--text {
   border-left: 2px solid #8abf1a;
