@@ -509,7 +509,7 @@ body {
 }
 .footer {
   position: relative;
-  background: #8abf1a;
+  background: #fff;
   padding-top: 70px;
   padding-bottom: 30px;
 }
@@ -1131,6 +1131,7 @@ body {
 .slider {
   position: relative;
   padding-bottom: 70px;
+  background-color: #8abf1a;
 }
 @media screen and (min-width: 1210px) {
   .slider__title {
