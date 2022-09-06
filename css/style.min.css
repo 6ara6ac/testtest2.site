@@ -925,9 +925,9 @@ body {
 }
 .main__image--tablet {
   width: 320px;
-  height: 474px;
-  -o-object-fit: unset;
-  object-fit: unset;
+  height: 800px;
+  /* -o-object-fit: unset;
+  object-fit: unset; */
 }
 @media screen and (min-width: 1210px) {
   .main__image--tablet {
