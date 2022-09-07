@@ -732,6 +732,12 @@ body {
   position: relative;
   padding: 52px 0;
 }
+@media screen and (min-width: 1210px) {
+  .main {
+    padding: 0;
+  }
+}
+
 .main .star {
   display: none;
 }
@@ -757,7 +763,7 @@ body {
   .main {
     margin: unset;
     margin-top: 68px;
-    padding-bottom: 127px;
+    /* padding-bottom: 127px; */
     padding-top: unset;
   }
 }
@@ -834,6 +840,7 @@ body {
   display: grid;
   -ms-flex-direction: column;
   flex-direction: column;
+  gap: 10px;
 }
 .main__tabs--item {
   padding: 15px 22px 16px;
